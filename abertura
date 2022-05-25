@@ -37,4 +37,25 @@
 
 
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[COLOR=gold][B] RÁDIOS ONLINE[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia803407.us.archive.org/21/items/radios-online-2/R%C3%A1dios%20Online%202.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Matrix/main/SUBMENU%20R%C3%81DIOS</externallink>
+<fanart>https://ia902508.us.archive.org/11/items/pateira-de-fermentelos/Pateira%20de%20Fermentelos.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+ 
+ 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[COLOR=gold][B] WEBCAM MUNDIAIS[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia801802.us.archive.org/5/items/wlc_20201130/WLC.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/exp</externallink>
+<fanart>https://ia902508.us.archive.org/11/items/pateira-de-fermentelos/Pateira%20de%20Fermentelos.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+
+
 </channels>
