@@ -23,33 +23,13 @@
  
  
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANAIS TV PT 1[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANAIS TV PT[/COLOR][/B]</name>
 <thumbnail>https://ia804500.us.archive.org/10/items/canais-pt/Canais%20PT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20Portugal</externallink>
 <fanart>https://ia601404.us.archive.org/10/items/the-matrix-wallpaper/The%20Matrix%20Wallpaper.jpg</fanart>
 <info></info>
 </channel>
 
-
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANAIS TV PT 2[/COLOR][/B]</name>
-<thumbnail>https://ia804500.us.archive.org/10/items/canais-pt/Canais%20PT.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/canais%20pt%202</externallink>
-<fanart>https://ia601404.us.archive.org/10/items/the-matrix-wallpaper/The%20Matrix%20Wallpaper.jpg</fanart>
-<info></info>
-</channel>
-
-
-
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANAIS TV PT 3[/COLOR][/B]</name>
-<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/moonlight17884/iptv/main/dass.m3u</externallink>
-<fanart>https://ia601404.us.archive.org/10/items/the-matrix-wallpaper/The%20Matrix%20Wallpaper.jpg</fanart>
-<info></info>
-</channel>
 
 
 <channel>
@@ -71,16 +51,8 @@
 </channel>
 
 
- 
- 
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANAIS PAÍSES[/COLOR][/B]</name>
-<thumbnail>https://ia803404.us.archive.org/6/items/canais-mundiais-2/Canais%20Mundiais%202.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Matrix/main/Canais%20Mundiais</externallink>
-<fanart>https://ia601404.us.archive.org/10/items/the-matrix-wallpaper/The%20Matrix%20Wallpaper.jpg</fanart>
-<info></info>
-</channel>
- 
+
+
  
  
 </channels>
