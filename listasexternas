@@ -1,22 +1,13 @@
 <layouttype>thumbnail</layouttype>
- 
- 
+
+
 <channels>
 <channel>
-<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white]LISTAS E/OU ADDONS EXTERNOS[/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
-<thumbnail>https://ia802203.us.archive.org/16/items/lista-e-addons-externos/Lista%20e%20Addons%20Externos.jpg</thumbnail>
+<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] LISTAS E/OU ADDONS EXTERNOS [/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
+<thumbnail>https://ia902203.us.archive.org/16/items/lista-e-addons-externos/Lista%20e%20Addons%20Externos.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia902508.us.archive.org/11/items/pateira-de-fermentelos/Pateira%20de%20Fermentelos.jpg</fanart>
 <info>
- 
-
-<channels>
-<channel>
-<name>[COLOR=gold][B]FREE2VIEW STREAMS TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia903406.us.archive.org/7/items/free-2-view-streams-tv/Free2View%20Streams%20TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sphinxroot/Free2ViewTV/main/Free2ViewTV-2021-Master.m3u</externallink>
-<fanart>https://ia902508.us.archive.org/11/items/pateira-de-fermentelos/Pateira%20de%20Fermentelos.jpg</fanart>
-<info></info>
 </channel>
 </channels>
 
@@ -24,26 +15,32 @@
 
 <channels>
 <channel>
-<name>[COLOR=gold][B]TDT CHANNELS TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FREE2VIEW STREAMS TV[/COLOR][/B]</name>
+<thumbnail>https://ia803406.us.archive.org/7/items/free-2-view-streams-tv/Free2View%20Streams%20TV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Sphinxroot/Free2ViewTV/main/Free2ViewTV-2021-Master.m3u</externallink>
+<fanart>https://ia902508.us.archive.org/11/items/pateira-de-fermentelos/Pateira%20de%20Fermentelos.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]TDT CHANNELS TV[/COLOR][/B]</name>
 <thumbnail>https://ia801805.us.archive.org/10/items/tdt-channels_202104/TDT%20Channels.jpg</thumbnail>
 <externallink>https://www.tdtchannels.com/lists/tv.m3u8</externallink>
 <fanart>https://ia902508.us.archive.org/11/items/pateira-de-fermentelos/Pateira%20de%20Fermentelos.jpg</fanart>
-<info></info>
+<info>portugalkodi.com</info>
 </channel>
-</channels>
-
 
 
 <channels>
 <channel>
-<name>[COLOR=gold][B]FLUXUS TV ENG[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FLUXUS TV ENG[/COLOR][/B]</name>
 <thumbnail>https://ia801809.us.archive.org/15/items/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
 <externallink>https://bit.ly/FTV-ENG</externallink>
 <fanart>https://ia902508.us.archive.org/11/items/pateira-de-fermentelos/Pateira%20de%20Fermentelos.jpg</fanart>
-<info></info>
+<info>portugalkodi.com</info>
 </channel>
-</channels>
-
 
 
 
