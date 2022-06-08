@@ -1,3 +1,3 @@
 # AGUEDATV
 
-Addon para kodi 19 (Matrix) e kodi 20 (Nexus) com diversos conteúdos. Imagens diversas da cidade de Águeda. 
+Addon para kodi 19 (Matrix) com diversos conteúdos. Imagens diversas da cidade de Águeda (Portugal, distrito de Aveiro).
