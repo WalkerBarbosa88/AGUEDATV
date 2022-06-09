@@ -18,3 +18,16 @@ http://213.239.218.99:7022/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO SOBERANIA FM[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8034/stream
 
+
+#EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA NO YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]TURISMO DA NATUREZA 2021 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PG0ZRsFReuE&ab_channel=Agueda.TV
+
+#EXTINF:-1,[COLOR=white][B]ÁGUEDA 2021 - ÁGUEDA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Fj1ZpdPHxe8&ab_channel=%C3%81guedaLive
+
+#EXTINF:-1,[COLOR=white][B]VIVE MAIS A TUA CIDADE 2019 - ÁGUEDA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kRfi5nmneuw
