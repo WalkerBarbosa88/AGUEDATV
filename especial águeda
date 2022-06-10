@@ -53,7 +53,7 @@ http://000000000000000
 #EXTINF:-1,[COLOR=white][B]PAI NATAL ÁGUEDA 2019[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L0qXw29EYlY
 
-#EXTINF:-1,[COLOR=white][B]PAI NATAL ÁGUEDA 2020 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]NATAL ÁGUEDA 2020 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0h-oeZnxTgA
 
 #EXTINF:-1,[COLOR=white][B]NATAL ÁGUEDA 2021 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
