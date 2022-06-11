@@ -19,7 +19,7 @@
 <thumbnail>https://ia803406.us.archive.org/7/items/free-2-view-streams-tv/Free2View%20Streams%20TV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Sphinxroot/Free2ViewTV/main/Free2ViewTV-2021-Master.m3u</externallink>
 <fanart>https://ia902508.us.archive.org/16/items/estatuas-vivas-agueda/Est%C3%A1tuas%20Vivas%20%C3%81gueda.jpg</fanart>
-<info>portugalkodi.com</info>
+<info></info>
 </channel>
 
 
@@ -29,7 +29,7 @@
 <thumbnail>https://ia801805.us.archive.org/10/items/tdt-channels_202104/TDT%20Channels.jpg</thumbnail>
 <externallink>https://www.tdtchannels.com/lists/tvradio.m3u8</externallink>
 <fanart>https://ia902508.us.archive.org/16/items/estatuas-vivas-agueda/Est%C3%A1tuas%20Vivas%20%C3%81gueda.jpg</fanart>
-<info>portugalkodi.com</info>
+<info></info>
 </channel>
 
 
@@ -39,7 +39,19 @@
 <thumbnail>https://ia801809.us.archive.org/15/items/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
 <externallink>https://bit.ly/FTV-ENG</externallink>
 <fanart>https://ia902508.us.archive.org/16/items/estatuas-vivas-agueda/Est%C3%A1tuas%20Vivas%20%C3%81gueda.jpg</fanart>
-<info>portugalkodi.com</info>
+<info></info>
+</channel>
+
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FREE IPTV[/COLOR][/B]</name>
+<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8</externallink>
+<fanart>https://ia902508.us.archive.org/16/items/estatuas-vivas-agueda/Est%C3%A1tuas%20Vivas%20%C3%81gueda.jpg</fanart>
+<info></info>
 </channel>
 
 
