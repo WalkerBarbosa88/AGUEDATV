@@ -70,11 +70,14 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jHHXPp
 #EXTINF:-1,[COLOR=white][B]AGITÁGUEDA 2019 DESTAQUES 4[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VCRTORc0d8o&t=10s
 
-#EXTINF:-1,[COLOR=white][B]COMBOIO HISTÓRICO DO VOUGA 2019[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]COMBOIO HISTÓRICO 2019[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EZoklQiDuwQ
 
 #EXTINF:-1,[COLOR=white][B]MUSEU FERROVIÁRIO DE MACINHATA DO VOUGA 2018[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0kUbmNDd8TY
+
+#EXTINF:-1,[COLOR=white][B]VÍDEO PROMOCIONAL ÁGUEDA 2018[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MWnYrgsf3aM
 
 #EXTINF:-1,[COLOR=white][B]COMBOIO HISTÓRICO 2017[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=juRKd_b2OZo
