@@ -24,14 +24,6 @@ https://nl.digitalrm.pt:8034/stream
 
 
 ###########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA NO YOUTUBE ESTRANGEIROS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-http://000000000000000
-
-#EXTINF:-1,[COLOR=white][B]ISLAND HOPPER TV 2018[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=49e96t0S1GI
-
-
-###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA NO YOUTUBE NACIONAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://000000000000000
 
