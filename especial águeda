@@ -49,6 +49,12 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EL_Zva
 #EXTINF:-1,[COLOR=white][B]VISA ÁEREA ÁGUEDA 2020[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2qUQq83RupE
 
+#EXTINF:-1,[COLOR=white][B]PATEIRA DE FERMENTELOS - VISTA AÉREA 2020[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L6Vcz48J_aI
+
+#EXTINF:-1,[COLOR=white][B]PATEIRA DE FERMENTELOS - VISTA AÉREA 2019[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=o1jaOOu2ToQ
+
 #EXTINF:-1,[COLOR=white][B]VIVE MAIS A TUA CIDADE 2019 - ÁGUEDA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kRfi5nmneuw
 
@@ -63,6 +69,15 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jHHXPp
 
 #EXTINF:-1,[COLOR=white][B]AGITÁGUEDA 2019 DESTAQUES 4[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VCRTORc0d8o&t=10s
+
+#EXTINF:-1,[COLOR=white][B]COMBOIO HISTÓRICO DO VOUGA 2019[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EZoklQiDuwQ
+
+#EXTINF:-1,[COLOR=white][B]MUSEU FERROVIÁRIO DE MACINHATA DO VOUGA 2018[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0kUbmNDd8TY
+
+#EXTINF:-1,[COLOR=white][B]COMBOIO HISTÓRICO 2017[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=juRKd_b2OZo
 
 
 ###########################################################################################################################################
