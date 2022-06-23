@@ -24,7 +24,7 @@ https://nl.digitalrm.pt:8034/stream
 
 
 ###########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA NO YOUTUBE - CANAIS ESTRANGEIROS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA NO YOUTUBE ESTRANGEIROS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://000000000000000
 
 #EXTINF:-1,[COLOR=white][B]ISLAND HOPPER TV 2018[/B][/COLOR][COLOR=white][/COLOR]
@@ -32,7 +32,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=49e96t
 
 
 ###########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA NO YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA NO YOUTUBE NACIONAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://000000000000000
 
 
@@ -41,6 +41,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PG0ZRs
 
 #EXTINF:-1,[COLOR=white][B]ÁGUEDA 2021 - ÁGUEDA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Fj1ZpdPHxe8&ab_channel=%C3%81guedaLive
+
+#EXTINF:-1,[COLOR=white][B]DESTINO PORTUGAL 2021[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EL_ZvaGMOk8&ab_channel=DestinoPortugal
 
 #EXTINF:-1,[COLOR=white][B]VIVE MAIS A TUA CIDADE 2019 - ÁGUEDA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kRfi5nmneuw
@@ -57,22 +60,20 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jHHXPp
 #EXTINF:-1,[COLOR=white][B]AGITÁGUEDA 2019 DESTAQUES 4[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VCRTORc0d8o&t=10s
 
-#EXTINF:-1,[COLOR=white][B]DESTINO PORTUGAL 2021[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EL_ZvaGMOk8&ab_channel=DestinoPortugal
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  NATAL EM ÁGUEDA NO YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://000000000000000
 
 
-#EXTINF:-1,[COLOR=white][B]PAI NATAL ÁGUEDA 2019[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L0qXw29EYlY
+#EXTINF:-1,[COLOR=white][B]NATAL ÁGUEDA 2021 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KV2deKL6HAw
 
 #EXTINF:-1,[COLOR=white][B]NATAL ÁGUEDA 2020 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0h-oeZnxTgA
 
-#EXTINF:-1,[COLOR=white][B]NATAL ÁGUEDA 2021 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KV2deKL6HAw
+#EXTINF:-1,[COLOR=white][B]PAI NATAL ÁGUEDA 2019[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L0qXw29EYlY
 
 #EXTINF:-1,[COLOR=white][B]AGUEDA TV - NATAL 2017[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jWDKafdb4jE&ab_channel=Agueda.TV
