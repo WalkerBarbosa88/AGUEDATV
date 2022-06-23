@@ -24,6 +24,15 @@ https://nl.digitalrm.pt:8034/stream
 
 
 ###########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]HORIZONTES DA MEMÓRIA, RTP ÁGUEDA 2000[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=m3O22DL2-H4
+
+
+###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA NO YOUTUBE NACIONAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://000000000000000
 
@@ -36,6 +45,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Fj1Zpd
 
 #EXTINF:-1,[COLOR=white][B]DESTINO PORTUGAL 2021[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EL_ZvaGMOk8&ab_channel=DestinoPortugal
+
+#EXTINF:-1,[COLOR=white][B]VISA ÁEREA ÁGUEDA 2020[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2qUQq83RupE
 
 #EXTINF:-1,[COLOR=white][B]VIVE MAIS A TUA CIDADE 2019 - ÁGUEDA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kRfi5nmneuw
