@@ -12,14 +12,6 @@
 </channels>
 
 
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]MÚSICA (SPHINXROOT)[/COLOR][/B]</name>
-<thumbnail>https://ia601409.us.archive.org/35/items/musica_202203/MUSICA.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sphinxroot/TV/main/music.m3u</externallink>
-<fanart>https://ia902508.us.archive.org/11/items/pateira-de-fermentelos/Pateira%20de%20Fermentelos.jpg</fanart>
-<info></info>
-</channel>
 
 
 <channels>
@@ -41,16 +33,6 @@
 <info></info>
 </channel>
  
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FRANÇA (SPHINXROOT)[/COLOR][/B]</name>
-<thumbnail>https://ia803405.us.archive.org/34/items/bandeira-franca/Bandeira%20Fran%C3%A7a.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sphinxroot/TV/main/France.m3u</externallink>
-<fanart>https://ia902508.us.archive.org/11/items/pateira-de-fermentelos/Pateira%20de%20Fermentelos.jpg</fanart>
-<info></info>
-</channel>
-
 
 <channels>
 <channel>
